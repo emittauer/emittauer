@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋. 
+
+#### I'm interested in learning more advanced coding in python. Currently I'm working on becoming more proficient by taking AER E 361. My fanorite hobby is baking. 
+
+
 
 <!--
 **emittauer/emittauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
